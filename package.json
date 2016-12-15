@@ -1,6 +1,6 @@
 {
     "name": "documentation-vault",
-    "version": "4.14.0",
+    "version": "0.0.0",
     "license": "MIT",
     "scripts": {
         "install": "pip install -r mkdocs_directive.txt",
