@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "license": "MIT",
     "scripts": {
-        "install": "pip install -r mkdocs_directive.txt",
+        "install": "pip install -r requirements.txt",
         "postinstall": "mkdocs build",
         "start": "node app.js"
     },
