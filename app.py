@@ -1,7 +1,7 @@
 from flask import Flask, request, redirect, url_for, send_from_directory
 
 
-app = Flask(__name__, static_folder='site')
+app = Flask(__name__, static_folder='/app/site')
 
 
 @app.route('/')
